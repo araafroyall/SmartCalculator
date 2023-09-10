@@ -4,7 +4,7 @@
 
 👨‍🎤 One-Step Solution for Calculation
 
-Made With ❣️ in 🇮🇳 by 𝐀𝐫𝐚𝐚𝐟𝐑𝐨𝐲𝐚𝐥.
+Made With ❣️ in 🇮🇳 by 𝐀𝐫𝐚𝐚𝐟𝐑𝐨𝐲𝐚𝐥𝐥.
 
 🧿Main Features
      • Weight/cost/price calculator
